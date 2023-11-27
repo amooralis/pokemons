@@ -1,3 +1,13 @@
+
+
+<img width="1009" alt="Снимок экрана 2023-11-27 в 16 06 29" src="https://github.com/amooralis/pokemons/assets/71789031/bdb5b7e0-f7d8-4d3b-9896-e6fe1b56a29d">
+
+
+
+<img width="1009" alt="Снимок экрана 2023-11-27 в 16 06 36" src="https://github.com/amooralis/pokemons/assets/71789031/4ed732af-d617-42b4-a754-917c1671f63f">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
